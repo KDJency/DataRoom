@@ -14,7 +14,7 @@ This MVP allows users to:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/dataroom-mvp.git
+git clone https://github.com/KDJency/DataRoom.git
 cd dataroom-mvp
 ```
 
